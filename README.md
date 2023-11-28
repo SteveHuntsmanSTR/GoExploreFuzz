@@ -1,5 +1,7 @@
 # GoExploreFuzz
-Copyright 2023 STR, except for get_Ahp.m, which is adapted from https://github.com/zboyd2/hitting_probabilities_metric and available under the MIT license at https://github.com/zboyd2/hitting_probabilities_metric/blob/master/LICENSE, herein included as hpLicense.txt).
+All files not otherwise licensed are Copyright 2023 STR. All rights reserved.
+
+get_Ahp.m is adapted from https://github.com/zboyd2/hitting_probabilities_metric and available under the MIT license at https://github.com/zboyd2/hitting_probabilities_metric/blob/master/LICENSE, herein included as hpLicense.txt.
 
 The creatively named goExploreFuzzScript.m MATLAB script takes weeks to run as-is to reproduce results from the paper, but is also useful as an example. It calls various MATLAB functions that we list in the same order as the TeX comments or appendices (either one or the other is present) in whichever preprint version is at hand:
 
