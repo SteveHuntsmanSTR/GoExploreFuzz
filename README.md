@@ -16,3 +16,6 @@ The creatively named goExploreFuzzScript.m MATLAB script takes weeks to run as-i
 *  strongCutoff.m produces the "strong cutoff" of a symmetric dissimilarity space
 *  temp20230508_update is the example update function used in the script
 *  temp20230511 is the example local generator used in the script
+
+This research was developed with funding from the Defense Advanced Research Projects Agency (DARPA). The views, opinions and/or findings expressed are those of the author and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government. Distribution Statement “A” (Approved for Public Release, Distribution Unlimited). 
+In the event permission is required, DARPA is authorized to reproduce the copyrighted material for use as an exhibit or handout at DARPA-sponsored events and/or to post the material on the DARPA website.
